@@ -1,4 +1,7 @@
-<?php require_once 'validador_acesso.php'; ?>
+<?php
+  require_once 'validador_acesso.php';
+  print_r($_SESSION);
+  ?>
 <html>
   <head>
     <meta charset="utf-8" />

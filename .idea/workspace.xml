@@ -5,6 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/arquivo.hd" beforeDir="false" afterPath="$PROJECT_DIR$/arquivo.hd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/consultar_chamado.php" beforeDir="false" afterPath="$PROJECT_DIR$/consultar_chamado.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registra_chamado.php" beforeDir="false" afterPath="$PROJECT_DIR$/registra_chamado.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valida_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/valida_login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
       <updated>1635938855069</updated>
       <workItem from="1635938856132" duration="634000" />
       <workItem from="1635940601955" duration="9442000" />
-      <workItem from="1635950562087" duration="1806000" />
+      <workItem from="1635950562087" duration="4048000" />
     </task>
     <task id="LOCAL-00001" summary="Configurando registros.">
       <created>1635950529178</created>
