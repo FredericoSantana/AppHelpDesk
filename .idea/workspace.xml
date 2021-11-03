@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="745a7138-8d5c-44f0-8d41-539c86a211b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/registra_chamado.php" afterDir="false" />
+    <list default="true" id="745a7138-8d5c-44f0-8d41-539c86a211b1" name="Changes" comment="Configurando registros.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abrir_chamado.php" beforeDir="false" afterPath="$PROJECT_DIR$/abrir_chamado.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivo.hd" beforeDir="false" afterPath="$PROJECT_DIR$/arquivo.hd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consultar_chamado.php" beforeDir="false" afterPath="$PROJECT_DIR$/consultar_chamado.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,17 @@
       <option name="presentableId" value="Default" />
       <updated>1635938855069</updated>
       <workItem from="1635938856132" duration="634000" />
-      <workItem from="1635940601955" duration="9247000" />
+      <workItem from="1635940601955" duration="9442000" />
+      <workItem from="1635950562087" duration="1806000" />
     </task>
+    <task id="LOCAL-00001" summary="Configurando registros.">
+      <created>1635950529178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635950529178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,5 +67,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configurando registros." />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurando registros." />
   </component>
 </project>
